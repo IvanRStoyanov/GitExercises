@@ -1,1 +1,2 @@
 This is some new file for the project.
+Dali shte suzdadem conflict tozi put
