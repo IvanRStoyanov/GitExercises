@@ -1,5 +1,4 @@
 # GitExercises
 Git and GitHub Homework
 
-
-We resolve the conflict :)
+Some changes in the new branch for merging
