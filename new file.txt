@@ -1,3 +1,8 @@
 This is some new file for the project.
 
+
 Some changes in new file to creat and resolve conflict in GitBash
+
+Dali shte suzdadem conflict tozi put
+
+I did it!!!
